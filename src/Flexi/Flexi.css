@@ -1,0 +1,42 @@
+.textField {
+    width: 200px;
+    padding: 8px;
+    margin: 10px auto;
+    border: 1px outset grey;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 10px;
+}
+
+
+.dropdown {
+    width: 200px;
+    padding: 8px;
+    border: 1px outset grey;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    margin: 10px auto;
+}
+
+.submit {
+    padding: 8px;
+    border: 1px outset grey;
+    color: white;
+    background-color: green;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+    margin: 10px auto;
+    cursor: pointer;
+}
+
+.Flexi {
+    width: 500px;
+    clear: both;
+    align-content: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+label {
+    display: inline-block;
+    width:200px;
+    text-align: left;
+    margin: 5px;
+}
